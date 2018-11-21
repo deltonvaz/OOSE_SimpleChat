@@ -1,0 +1,1038 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a29313cc-e7b5-4cf8-878e-9cd8bdf405fa" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/bin/ocsf/server/AdaptableServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/ocsf/server/AdaptableServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/simplechat3/common/ChatIF.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/simplechat3/common/ClientConsole.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/simplechat3/common/EchoServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/simplechat3/common/ServerConsole.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/simplechat3/ocsf/client/AbstractClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/simplechat3/ocsf/client/AdaptableClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/simplechat3/ocsf/client/ChatClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/simplechat3/ocsf/client/ObservableClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/simplechat3/ocsf/client/ObservableSWRClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/simplechat3/ocsf/server/AbstractConnectionFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/simplechat3/ocsf/server/AbstractServer$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/simplechat3/ocsf/server/AbstractServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/simplechat3/ocsf/server/AdaptableServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/simplechat3/ocsf/server/ConnectionToClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/simplechat3/ocsf/server/ObservableOriginatorServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/simplechat3/ocsf/server/ObservableServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/simplechat3/ocsf/server/OriginatorMessage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ServerConsole.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ServerConsole.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ocsf/server/AdaptableServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ocsf/server/AdaptableServer.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/bin/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1057627453">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="Flash/" value="1" />
+          <entry key="JAVA/" value="4" />
+          <entry key="JAVA/ClientConsole" value="1" />
+          <entry key="JAVA/ServerConsole" value="1" />
+          <entry key="JAVA/client" value="2" />
+          <entry key="JavaScript-modules-diagram//Users/delton/eclipse-workspace/simplechatGUI/src" value="2" />
+          <entry key="MODULES/mdl-simplechatGUI" value="1" />
+          <entry key="java" value="2" />
+          <entry key="server" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="2" />
+          <entry key="UML" value="13" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="uml://JAVA/">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>JAVA</ID>
+              <OriginalElement />
+              <nodes>
+                <node x="1523.0036564625852" y="1162.0">ocsf.client.AbstractClient</node>
+                <node x="709.4983163265306" y="3290.5">ServerConsole</node>
+                <node x="426.60187074829935" y="696.0">ocsf.server.ConnectionToClient</node>
+                <node x="1041.7645578231295" y="3279.5">ClientConsole</node>
+                <node x="0.0" y="1261.5">ocsf.server.AdaptableServer</node>
+                <node x="1334.7645578231295" y="3258.0">ClientConsoleGUI</node>
+                <node x="514.6375000000002" y="1339.0">ocsf.server.OriginatorMessage</node>
+                <node x="1350.8589285714286" y="2814.5">client.ChatClient</node>
+                <node x="514.8316496598638" y="2803.5">server.EchoServer</node>
+                <node x="278.8786564625851" y="2405.0">ocsf.server.ObservableOriginatorServer</node>
+                <node x="915.2589285714287" y="1361.5">ocsf.server.AbstractConnectionFactory</node>
+                <node x="1527.8786564625852" y="2338.0">client.ObservableClient</node>
+                <node x="993.2645578231295" y="2493.5">common.ChatIF</node>
+                <node x="1689.8589285714286" y="2770.0">ocsf.client.ObservableSWRClient</node>
+                <node x="455.44312925170095" y="0.0">ocsf.server.AbstractServer</node>
+                <node x="1513.2536564625852" y="1893.5">client.AdaptableClient</node>
+                <node x="54.637500000000045" y="1662.0">ocsf.server.ObservableServer</node>
+              </nodes>
+              <notes />
+              <edges>
+                <edge source="ClientConsole" target="client.ChatClient">
+                  <point x="91.0" y="-92.5" />
+                  <point x="1269.2645578231295" y="3238.0" />
+                  <point x="1446.5589285714286" y="3238.0" />
+                  <point x="-63.799999999999955" y="169.5" />
+                </edge>
+                <edge source="ocsf.server.AdaptableServer" target="ocsf.server.ConnectionToClient">
+                  <point x="146.33333333333326" y="-125.5" />
+                  <point x="365.83333333333326" y="1142.0" />
+                  <point x="457.74472789115646" y="1142.0" />
+                  <point x="-186.8571428571429" y="203.0" />
+                </edge>
+                <edge source="client.ChatClient" target="client.ObservableClient">
+                  <point x="63.799999999999955" y="-169.5" />
+                  <point x="1574.1589285714285" y="2750.0" />
+                  <point x="1621.778656462585" y="2750.0" />
+                  <point x="-62.60000000000002" y="181.0" />
+                </edge>
+                <edge source="ServerConsole" target="server.EchoServer">
+                  <point x="-23.5" y="-81.5" />
+                  <point x="779.9983163265306" y="3228.0" />
+                  <point x="731.3316496598638" y="3228.0" />
+                  <point x="0.0" y="180.5" />
+                </edge>
+                <edge source="ocsf.server.ObservableServer" target="ocsf.server.ConnectionToClient">
+                  <point x="175.5999999999999" y="-313.0" />
+                  <point x="449.73749999999995" y="1637.0" />
+                  <point x="467.58164965986384" y="1637.0" />
+                  <point x="467.58164965986384" y="1132.0" />
+                  <point x="520.0304421768709" y="1132.0" />
+                  <point x="-124.57142857142844" y="203.0" />
+                </edge>
+                <edge source="client.ChatClient" target="common.ChatIF">
+                  <point x="-127.60000000000002" y="-169.5" />
+                  <point x="1382.7589285714284" y="2740.0" />
+                  <point x="1140.9788435374153" y="2740.0" />
+                  <point x="53.714285714285666" y="25.5" />
+                </edge>
+                <edge source="client.AdaptableClient" target="ocsf.client.AbstractClient">
+                  <point x="88.0" y="-81.5" />
+                  <point x="1777.2536564625852" y="1637.0" />
+                  <point x="1757.7536564625852" y="1637.0" />
+                  <point x="78.25" y="225.0" />
+                </edge>
+                <edge source="server.EchoServer" target="ocsf.server.OriginatorMessage">
+                  <point x="0.0" y="-180.5" />
+                  <point x="731.3316496598638" y="2750.0" />
+                  <point x="740.8872789115646" y="2750.0" />
+                  <point x="740.8872789115646" y="1637.0" />
+                  <point x="790.6375000000002" y="1637.0" />
+                  <point x="92.0" y="48.0" />
+                </edge>
+                <edge source="ClientConsoleGUI" target="client.ChatClient">
+                  <point x="-40.375" y="-114.0" />
+                  <point x="1455.8895578231295" y="3238.0" />
+                  <point x="1510.3589285714286" y="3238.0" />
+                  <point x="0.0" y="169.5" />
+                </edge>
+                <edge source="ocsf.server.ObservableOriginatorServer" target="ocsf.server.ObservableServer">
+                  <point x="-164.625" y="-114.0" />
+                  <point x="333.7536564625851" y="2313.0" />
+                  <point x="274.13750000000005" y="2313.0" />
+                  <point x="0.0" y="313.0" />
+                </edge>
+                <edge source="server.EchoServer" target="ocsf.server.ObservableOriginatorServer">
+                  <point x="-123.71428571428578" y="-180.5" />
+                  <point x="607.6173639455781" y="2740.0" />
+                  <point x="388.6286564625851" y="2740.0" />
+                  <point x="-109.75" y="114.0" />
+                </edge>
+                <edge source="server.EchoServer" target="ocsf.server.ConnectionToClient">
+                  <point x="61.85714285714289" y="-180.5" />
+                  <point x="793.1887925170067" y="2720.0" />
+                  <point x="893.1375000000002" y="2720.0" />
+                  <point x="893.1375000000002" y="1132.0" />
+                  <point x="769.173299319728" y="1132.0" />
+                  <point x="124.57142857142867" y="203.0" />
+                </edge>
+                <edge source="ClientConsoleGUI" target="common.ChatIF">
+                  <point x="-121.125" y="-114.0" />
+                  <point x="1375.1395578231295" y="3218.0" />
+                  <point x="1273.046717687075" y="3218.0" />
+                  <point x="1273.046717687075" y="2750.0" />
+                  <point x="1114.1217006802724" y="2750.0" />
+                  <point x="26.857142857142776" y="25.5" />
+                </edge>
+                <edge source="ocsf.server.OriginatorMessage" target="ocsf.server.ConnectionToClient">
+                  <point x="-92.0" y="-48.0" />
+                  <point x="606.6375000000002" y="1142.0" />
+                  <point x="644.6018707482993" y="1142.0" />
+                  <point x="0.0" y="203.0" />
+                </edge>
+                <edge source="ClientConsole" target="common.ChatIF">
+                  <point x="-91.0" y="-92.5" />
+                  <point x="0.0" y="25.5" />
+                </edge>
+                <edge source="ocsf.server.ObservableServer" target="ocsf.server.AdaptableServer">
+                  <point x="-87.80000000000007" y="-313.0" />
+                  <point x="186.33749999999998" y="1637.0" />
+                  <point x="164.625" y="1637.0" />
+                  <point x="-54.875" y="125.5" />
+                </edge>
+                <edge source="ocsf.server.AbstractConnectionFactory" target="ocsf.server.AbstractServer">
+                  <point x="-68.125" y="-25.5" />
+                  <point x="1119.6339285714287" y="1142.0" />
+                  <point x="1181.8247789115646" y="1142.0" />
+                  <point x="1181.8247789115646" y="666.0" />
+                  <point x="773.943129251701" y="666.0" />
+                  <point x="98.0" y="313.0" />
+                </edge>
+                <edge source="ocsf.server.ObservableOriginatorServer" target="ocsf.server.ConnectionToClient">
+                  <point x="54.875" y="-114.0" />
+                  <point x="553.2536564625851" y="2313.0" />
+                  <point x="504.13750000000016" y="2313.0" />
+                  <point x="504.13750000000016" y="1142.0" />
+                  <point x="582.3161564625851" y="1142.0" />
+                  <point x="-62.28571428571422" y="203.0" />
+                </edge>
+                <edge source="ocsf.client.ObservableSWRClient" target="client.ObservableClient">
+                  <point x="86.5" y="-214.0" />
+                  <point x="1949.3589285714286" y="2750.0" />
+                  <point x="1809.578656462585" y="2750.0" />
+                  <point x="125.19999999999999" y="181.0" />
+                </edge>
+                <edge source="server.EchoServer" target="ocsf.server.ObservableServer">
+                  <point x="-185.57142857142856" y="-180.5" />
+                  <point x="545.7602210884353" y="2750.0" />
+                  <point x="222.6494897959185" y="2750.0" />
+                  <point x="222.6494897959185" y="2313.0" />
+                  <point x="127.80416666666667" y="2313.0" />
+                  <point x="-146.33333333333337" y="313.0" />
+                </edge>
+                <edge source="ocsf.server.AbstractServer" target="ocsf.server.AbstractConnectionFactory">
+                  <point x="196.0" y="313.0" />
+                  <point x="871.943129251701" y="646.0" />
+                  <point x="1203.8247789115646" y="646.0" />
+                  <point x="1203.8247789115646" y="1132.0" />
+                  <point x="1392.1339285714287" y="1132.0" />
+                  <point x="204.375" y="-25.5" />
+                </edge>
+                <edge source="server.EchoServer" target="common.ChatIF">
+                  <point x="123.71428571428578" y="-180.5" />
+                  <point x="855.0459353741496" y="2730.0" />
+                  <point x="1006.693129251701" y="2730.0" />
+                  <point x="-80.57142857142856" y="25.5" />
+                </edge>
+                <edge source="client.ObservableClient" target="client.AdaptableClient">
+                  <point x="-117.375" y="-181.0" />
+                  <point x="1567.0036564625852" y="2313.0" />
+                  <point x="1557.2536564625852" y="2313.0" />
+                  <point x="-132.0" y="81.5" />
+                </edge>
+                <edge source="ocsf.server.AdaptableServer" target="ocsf.server.ObservableServer">
+                  <point x="164.625" y="125.5" />
+                  <point x="384.125" y="1637.0" />
+                  <point x="361.9375" y="1637.0" />
+                  <point x="87.79999999999995" y="-313.0" />
+                </edge>
+                <edge source="ocsf.server.AbstractConnectionFactory" target="ocsf.server.ConnectionToClient">
+                  <point x="-204.375" y="-25.5" />
+                  <point x="983.3839285714287" y="1122.0" />
+                  <point x="831.4590136054422" y="1122.0" />
+                  <point x="186.8571428571429" y="203.0" />
+                </edge>
+                <edge source="ocsf.server.AdaptableServer" target="ocsf.server.AbstractServer">
+                  <point x="0.0" y="-125.5" />
+                  <point x="219.5" y="1142.0" />
+                  <point x="177.6139625850342" y="1142.0" />
+                  <point x="177.6139625850342" y="666.0" />
+                  <point x="528.943129251701" y="666.0" />
+                  <point x="-147.0" y="313.0" />
+                </edge>
+                <edge source="ocsf.server.ObservableOriginatorServer" target="ocsf.server.OriginatorMessage">
+                  <point x="164.625" y="-114.0" />
+                  <point x="663.0036564625851" y="2313.0" />
+                  <point x="680.755629251701" y="2313.0" />
+                  <point x="680.755629251701" y="1637.0" />
+                  <point x="606.6375000000002" y="1637.0" />
+                  <point x="-92.0" y="48.0" />
+                </edge>
+                <edge source="ServerConsole" target="common.ChatIF">
+                  <point x="70.5" y="-81.5" />
+                  <point x="873.9983163265306" y="3238.0" />
+                  <point x="1014.5303571428573" y="3238.0" />
+                  <point x="1014.5303571428573" y="2750.0" />
+                  <point x="1060.4074149659866" y="2750.0" />
+                  <point x="-26.85714285714289" y="25.5" />
+                </edge>
+                <edge source="client.AdaptableClient" target="client.ObservableClient">
+                  <point x="44.0" y="81.5" />
+                  <point x="1733.2536564625852" y="2313.0" />
+                  <point x="1723.5036564625852" y="2313.0" />
+                  <point x="39.125" y="-181.0" />
+                </edge>
+                <edge source="ocsf.server.AbstractServer" target="ocsf.server.ConnectionToClient">
+                  <point x="49.0" y="313.0" />
+                  <point x="724.943129251701" y="676.0" />
+                  <point x="808.1018707482993" y="676.0" />
+                  <point x="163.5" y="-203.0" />
+                </edge>
+                <edge source="ocsf.server.ConnectionToClient" target="ocsf.server.AbstractServer">
+                  <point x="-54.5" y="-203.0" />
+                  <point x="590.1018707482993" y="676.0" />
+                  <point x="626.943129251701" y="676.0" />
+                  <point x="-49.0" y="313.0" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="0.6027922193245732" x="1957.1174022911255" y="307.4754824579562" />
+              <SelectedNodes />
+              <Categories>
+                <Category>Fields</Category>
+                <Category>Constructors</Category>
+                <Category>Methods</Category>
+                <Category>Properties</Category>
+                <Category>Inner Classes</Category>
+              </Categories>
+              <SCOPE>All</SCOPE>
+              <VISIBILITY>private</VISIBILITY>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="simplechatGUI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="simplechatGUI" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="simplechatGUI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="simplechatGUI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="simplechatGUI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="simplechatGUI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="simplechatGUI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="simplechatGUI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="simplechatGUI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="simplechatGUI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ocsf" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="simplechatGUI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="simplechatGUI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ocsf" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="simplechatGUI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="simplechatGUI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ocsf" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="simplechatGUI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="simplechatGUI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542841534795" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="ServerConsole" />
+      <module name="simplechatGUI" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a29313cc-e7b5-4cf8-878e-9cd8bdf405fa" name="Default Changelist" comment="" />
+      <created>1542839420329</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542839420329</updated>
+      <workItem from="1542839428479" duration="2324000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2324000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="797" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.24964234" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" weight="0.32907802" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="Find" order="4" />
+      <window_info anchor="bottom" id="Run" order="5" weight="0.32907802" />
+      <window_info anchor="bottom" id="Database Changes" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.24964234" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" weight="0.32907802" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="Find" order="4" />
+      <window_info anchor="bottom" id="Run" order="5" visible="true" weight="0.32907802" />
+      <window_info anchor="bottom" id="Database Changes" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/client/AdaptableClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="59" column="49" selection-start-line="59" selection-start-column="49" selection-end-line="59" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JavaScript-modules-diagram//Users/delton/eclipse-workspace/simplechatGUI/src">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JavaScript-modules-diagram</ID>
+          <OriginalElement>$PROJECT_DIR$/src</OriginalElement>
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="524.5" y="327.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>All</Category>
+          </Categories>
+          <VISIBILITY>Details</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://Flash/">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>Flash</ID>
+          <OriginalElement />
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="524.5" y="327.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>PRIVATE</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/client">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>client</OriginalElement>
+          <nodes>
+            <node x="19.5" y="213.0">client.ObservableClient</node>
+            <node x="16.5" y="625.0">client.ChatClient</node>
+            <node x="0.0" y="0.0">client.AdaptableClient</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="client.ChatClient" target="client.ObservableClient">
+              <point x="-106.33333333333331" y="-169.5" />
+              <point x="69.66666666666669" y="600.0" />
+              <point x="71.66666666666667" y="600.0" />
+              <point x="-104.33333333333333" y="181.0" />
+            </edge>
+            <edge source="client.ObservableClient" target="client.AdaptableClient">
+              <point x="-39.125" y="-181.0" />
+              <point x="136.875" y="188.0" />
+              <point x="132.0" y="188.0" />
+              <point x="-44.0" y="81.5" />
+            </edge>
+            <edge source="client.AdaptableClient" target="client.ObservableClient">
+              <point x="44.0" y="81.5" />
+              <point x="220.0" y="188.0" />
+              <point x="215.125" y="188.0" />
+              <point x="39.125" y="-181.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-188.0" y="220.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Constructors</Category>
+            <Category>Fields</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ocsf/server/AbstractServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="70" column="22" selection-start-line="70" selection-start-column="22" selection-end-line="70" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://MODULES/mdl-simplechatGUI">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MODULES</ID>
+          <OriginalElement>mdl-simplechatGUI</OriginalElement>
+          <nodes>
+            <node x="" y="">mdl-simplechatGUI</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="88.0" y="14.5" />
+          <SelectedNodes />
+          <Categories />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/ServerConsole">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>ServerConsole</OriginalElement>
+          <nodes>
+            <node x="" y="">common.ChatIF</node>
+            <node x="" y="">ServerConsole</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="68.5" y="54.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/ocsf.server">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>ocsf.server</OriginalElement>
+          <nodes>
+            <node x="" y="">ocsf.server.AbstractConnectionFactory</node>
+            <node x="" y="">ocsf.server.OriginatorMessage</node>
+            <node x="" y="">ocsf.server.AbstractServer</node>
+            <node x="" y="">ocsf.server.ObservableOriginatorServer</node>
+            <node x="" y="">ocsf.server.ConnectionToClient</node>
+            <node x="" y="">ocsf.server.AdaptableServer</node>
+            <node x="" y="">ocsf.server.ObservableServer</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.6935466802125002" x="477.25767517089855" y="451.4895324707032" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Properties</Category>
+            <Category>Methods</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/ClientConsole">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>ClientConsole</OriginalElement>
+          <nodes>
+            <node x="" y="">javafx.application.Application</node>
+            <node x="" y="">ClientConsoleGUI</node>
+            <node x="" y="">common.ChatIF</node>
+            <node x="" y="">ServerConsole</node>
+            <node x="" y="">javafx.application.Application.Parameters</node>
+            <node x="" y="">ClientConsole</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="495.5" y="348.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+            <Category>Constructors</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement />
+          <nodes>
+            <node x="1523.0036564625852" y="1162.0">ocsf.client.AbstractClient</node>
+            <node x="709.4983163265306" y="3290.5">ServerConsole</node>
+            <node x="426.60187074829935" y="696.0">ocsf.server.ConnectionToClient</node>
+            <node x="1041.7645578231295" y="3279.5">ClientConsole</node>
+            <node x="0.0" y="1261.5">ocsf.server.AdaptableServer</node>
+            <node x="1334.7645578231295" y="3258.0">ClientConsoleGUI</node>
+            <node x="514.6375000000002" y="1339.0">ocsf.server.OriginatorMessage</node>
+            <node x="1350.8589285714286" y="2814.5">client.ChatClient</node>
+            <node x="514.8316496598638" y="2803.5">server.EchoServer</node>
+            <node x="278.8786564625851" y="2405.0">ocsf.server.ObservableOriginatorServer</node>
+            <node x="915.2589285714287" y="1361.5">ocsf.server.AbstractConnectionFactory</node>
+            <node x="1527.8786564625852" y="2338.0">client.ObservableClient</node>
+            <node x="993.2645578231295" y="2493.5">common.ChatIF</node>
+            <node x="1689.8589285714286" y="2770.0">ocsf.client.ObservableSWRClient</node>
+            <node x="455.44312925170095" y="0.0">ocsf.server.AbstractServer</node>
+            <node x="1513.2536564625852" y="1893.5">client.AdaptableClient</node>
+            <node x="54.637500000000045" y="1662.0">ocsf.server.ObservableServer</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="ClientConsole" target="client.ChatClient">
+              <point x="91.0" y="-92.5" />
+              <point x="1269.2645578231295" y="3238.0" />
+              <point x="1446.5589285714286" y="3238.0" />
+              <point x="-63.799999999999955" y="169.5" />
+            </edge>
+            <edge source="ocsf.server.AdaptableServer" target="ocsf.server.ConnectionToClient">
+              <point x="146.33333333333326" y="-125.5" />
+              <point x="365.83333333333326" y="1142.0" />
+              <point x="457.74472789115646" y="1142.0" />
+              <point x="-186.8571428571429" y="203.0" />
+            </edge>
+            <edge source="client.ChatClient" target="client.ObservableClient">
+              <point x="63.799999999999955" y="-169.5" />
+              <point x="1574.1589285714285" y="2750.0" />
+              <point x="1621.778656462585" y="2750.0" />
+              <point x="-62.60000000000002" y="181.0" />
+            </edge>
+            <edge source="ServerConsole" target="server.EchoServer">
+              <point x="-23.5" y="-81.5" />
+              <point x="779.9983163265306" y="3228.0" />
+              <point x="731.3316496598638" y="3228.0" />
+              <point x="0.0" y="180.5" />
+            </edge>
+            <edge source="ocsf.server.ObservableServer" target="ocsf.server.ConnectionToClient">
+              <point x="175.5999999999999" y="-313.0" />
+              <point x="449.73749999999995" y="1637.0" />
+              <point x="467.58164965986384" y="1637.0" />
+              <point x="467.58164965986384" y="1132.0" />
+              <point x="520.0304421768709" y="1132.0" />
+              <point x="-124.57142857142844" y="203.0" />
+            </edge>
+            <edge source="client.ChatClient" target="common.ChatIF">
+              <point x="-127.60000000000002" y="-169.5" />
+              <point x="1382.7589285714284" y="2740.0" />
+              <point x="1140.9788435374153" y="2740.0" />
+              <point x="53.714285714285666" y="25.5" />
+            </edge>
+            <edge source="client.AdaptableClient" target="ocsf.client.AbstractClient">
+              <point x="88.0" y="-81.5" />
+              <point x="1777.2536564625852" y="1637.0" />
+              <point x="1757.7536564625852" y="1637.0" />
+              <point x="78.25" y="225.0" />
+            </edge>
+            <edge source="server.EchoServer" target="ocsf.server.OriginatorMessage">
+              <point x="0.0" y="-180.5" />
+              <point x="731.3316496598638" y="2750.0" />
+              <point x="740.8872789115646" y="2750.0" />
+              <point x="740.8872789115646" y="1637.0" />
+              <point x="790.6375000000002" y="1637.0" />
+              <point x="92.0" y="48.0" />
+            </edge>
+            <edge source="ClientConsoleGUI" target="client.ChatClient">
+              <point x="-40.375" y="-114.0" />
+              <point x="1455.8895578231295" y="3238.0" />
+              <point x="1510.3589285714286" y="3238.0" />
+              <point x="0.0" y="169.5" />
+            </edge>
+            <edge source="ocsf.server.ObservableOriginatorServer" target="ocsf.server.ObservableServer">
+              <point x="-164.625" y="-114.0" />
+              <point x="333.7536564625851" y="2313.0" />
+              <point x="274.13750000000005" y="2313.0" />
+              <point x="0.0" y="313.0" />
+            </edge>
+            <edge source="server.EchoServer" target="ocsf.server.ObservableOriginatorServer">
+              <point x="-123.71428571428578" y="-180.5" />
+              <point x="607.6173639455781" y="2740.0" />
+              <point x="388.6286564625851" y="2740.0" />
+              <point x="-109.75" y="114.0" />
+            </edge>
+            <edge source="server.EchoServer" target="ocsf.server.ConnectionToClient">
+              <point x="61.85714285714289" y="-180.5" />
+              <point x="793.1887925170067" y="2720.0" />
+              <point x="893.1375000000002" y="2720.0" />
+              <point x="893.1375000000002" y="1132.0" />
+              <point x="769.173299319728" y="1132.0" />
+              <point x="124.57142857142867" y="203.0" />
+            </edge>
+            <edge source="ClientConsoleGUI" target="common.ChatIF">
+              <point x="-121.125" y="-114.0" />
+              <point x="1375.1395578231295" y="3218.0" />
+              <point x="1273.046717687075" y="3218.0" />
+              <point x="1273.046717687075" y="2750.0" />
+              <point x="1114.1217006802724" y="2750.0" />
+              <point x="26.857142857142776" y="25.5" />
+            </edge>
+            <edge source="ocsf.server.OriginatorMessage" target="ocsf.server.ConnectionToClient">
+              <point x="-92.0" y="-48.0" />
+              <point x="606.6375000000002" y="1142.0" />
+              <point x="644.6018707482993" y="1142.0" />
+              <point x="0.0" y="203.0" />
+            </edge>
+            <edge source="ClientConsole" target="common.ChatIF">
+              <point x="-91.0" y="-92.5" />
+              <point x="0.0" y="25.5" />
+            </edge>
+            <edge source="ocsf.server.ObservableServer" target="ocsf.server.AdaptableServer">
+              <point x="-87.80000000000007" y="-313.0" />
+              <point x="186.33749999999998" y="1637.0" />
+              <point x="164.625" y="1637.0" />
+              <point x="-54.875" y="125.5" />
+            </edge>
+            <edge source="ocsf.server.AbstractConnectionFactory" target="ocsf.server.AbstractServer">
+              <point x="-68.125" y="-25.5" />
+              <point x="1119.6339285714287" y="1142.0" />
+              <point x="1181.8247789115646" y="1142.0" />
+              <point x="1181.8247789115646" y="666.0" />
+              <point x="773.943129251701" y="666.0" />
+              <point x="98.0" y="313.0" />
+            </edge>
+            <edge source="ocsf.server.ObservableOriginatorServer" target="ocsf.server.ConnectionToClient">
+              <point x="54.875" y="-114.0" />
+              <point x="553.2536564625851" y="2313.0" />
+              <point x="504.13750000000016" y="2313.0" />
+              <point x="504.13750000000016" y="1142.0" />
+              <point x="582.3161564625851" y="1142.0" />
+              <point x="-62.28571428571422" y="203.0" />
+            </edge>
+            <edge source="ocsf.client.ObservableSWRClient" target="client.ObservableClient">
+              <point x="86.5" y="-214.0" />
+              <point x="1949.3589285714286" y="2750.0" />
+              <point x="1809.578656462585" y="2750.0" />
+              <point x="125.19999999999999" y="181.0" />
+            </edge>
+            <edge source="server.EchoServer" target="ocsf.server.ObservableServer">
+              <point x="-185.57142857142856" y="-180.5" />
+              <point x="545.7602210884353" y="2750.0" />
+              <point x="222.6494897959185" y="2750.0" />
+              <point x="222.6494897959185" y="2313.0" />
+              <point x="127.80416666666667" y="2313.0" />
+              <point x="-146.33333333333337" y="313.0" />
+            </edge>
+            <edge source="ocsf.server.AbstractServer" target="ocsf.server.AbstractConnectionFactory">
+              <point x="196.0" y="313.0" />
+              <point x="871.943129251701" y="646.0" />
+              <point x="1203.8247789115646" y="646.0" />
+              <point x="1203.8247789115646" y="1132.0" />
+              <point x="1392.1339285714287" y="1132.0" />
+              <point x="204.375" y="-25.5" />
+            </edge>
+            <edge source="server.EchoServer" target="common.ChatIF">
+              <point x="123.71428571428578" y="-180.5" />
+              <point x="855.0459353741496" y="2730.0" />
+              <point x="1006.693129251701" y="2730.0" />
+              <point x="-80.57142857142856" y="25.5" />
+            </edge>
+            <edge source="client.ObservableClient" target="client.AdaptableClient">
+              <point x="-117.375" y="-181.0" />
+              <point x="1567.0036564625852" y="2313.0" />
+              <point x="1557.2536564625852" y="2313.0" />
+              <point x="-132.0" y="81.5" />
+            </edge>
+            <edge source="ocsf.server.AdaptableServer" target="ocsf.server.ObservableServer">
+              <point x="164.625" y="125.5" />
+              <point x="384.125" y="1637.0" />
+              <point x="361.9375" y="1637.0" />
+              <point x="87.79999999999995" y="-313.0" />
+            </edge>
+            <edge source="ocsf.server.AbstractConnectionFactory" target="ocsf.server.ConnectionToClient">
+              <point x="-204.375" y="-25.5" />
+              <point x="983.3839285714287" y="1122.0" />
+              <point x="831.4590136054422" y="1122.0" />
+              <point x="186.8571428571429" y="203.0" />
+            </edge>
+            <edge source="ocsf.server.AdaptableServer" target="ocsf.server.AbstractServer">
+              <point x="0.0" y="-125.5" />
+              <point x="219.5" y="1142.0" />
+              <point x="177.6139625850342" y="1142.0" />
+              <point x="177.6139625850342" y="666.0" />
+              <point x="528.943129251701" y="666.0" />
+              <point x="-147.0" y="313.0" />
+            </edge>
+            <edge source="ocsf.server.ObservableOriginatorServer" target="ocsf.server.OriginatorMessage">
+              <point x="164.625" y="-114.0" />
+              <point x="663.0036564625851" y="2313.0" />
+              <point x="680.755629251701" y="2313.0" />
+              <point x="680.755629251701" y="1637.0" />
+              <point x="606.6375000000002" y="1637.0" />
+              <point x="-92.0" y="48.0" />
+            </edge>
+            <edge source="ServerConsole" target="common.ChatIF">
+              <point x="70.5" y="-81.5" />
+              <point x="873.9983163265306" y="3238.0" />
+              <point x="1014.5303571428573" y="3238.0" />
+              <point x="1014.5303571428573" y="2750.0" />
+              <point x="1060.4074149659866" y="2750.0" />
+              <point x="-26.85714285714289" y="25.5" />
+            </edge>
+            <edge source="client.AdaptableClient" target="client.ObservableClient">
+              <point x="44.0" y="81.5" />
+              <point x="1733.2536564625852" y="2313.0" />
+              <point x="1723.5036564625852" y="2313.0" />
+              <point x="39.125" y="-181.0" />
+            </edge>
+            <edge source="ocsf.server.AbstractServer" target="ocsf.server.ConnectionToClient">
+              <point x="49.0" y="313.0" />
+              <point x="724.943129251701" y="676.0" />
+              <point x="808.1018707482993" y="676.0" />
+              <point x="163.5" y="-203.0" />
+            </edge>
+            <edge source="ocsf.server.ConnectionToClient" target="ocsf.server.AbstractServer">
+              <point x="-54.5" y="-203.0" />
+              <point x="590.1018707482993" y="676.0" />
+              <point x="626.943129251701" y="676.0" />
+              <point x="-49.0" y="313.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.6027922193245732" x="1957.1174022911255" y="307.4754824579562" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>simplechatGUI</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

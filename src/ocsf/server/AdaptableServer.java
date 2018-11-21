@@ -25,7 +25,7 @@ class AdaptableServer extends AbstractServer
   /**
    * The adapter used to simulate multiple class inheritance.
    */
-  private ObservableServer server;
+  private ObservableServer ObservableServer;
 
 // CONSTRUCTORS *****************************************************
 
@@ -38,7 +38,7 @@ class AdaptableServer extends AbstractServer
   public AdaptableServer(int port, ObservableServer server)
   {
     super(port);
-    this.server = server;
+    this.ObservableServer = server;
   }
 
 // OVERRIDDEN METHODS ---------
@@ -51,7 +51,7 @@ class AdaptableServer extends AbstractServer
    */
   final protected void clientConnected(ConnectionToClient client)
   {
-    server.clientConnected(client);
+	  ObservableServer.clientConnected(client);
   }
 
   /**
@@ -61,7 +61,7 @@ class AdaptableServer extends AbstractServer
    */
   final protected void clientDisconnected(ConnectionToClient client)
   {
-    server.clientDisconnected(client);
+	  ObservableServer.clientDisconnected(client);
   }
 
   /**
@@ -74,7 +74,7 @@ class AdaptableServer extends AbstractServer
   final protected void clientException(ConnectionToClient client,
                                         Throwable exception)
   {
-    server.clientException(client, exception);
+	  ObservableServer.clientException(client, exception);
   }
 
   /**
@@ -85,7 +85,7 @@ class AdaptableServer extends AbstractServer
    */
   final protected void listeningException(Throwable exception)
   {
-    server.listeningException(exception);
+	  ObservableServer.listeningException(exception);
   }
 
   /**
@@ -94,7 +94,7 @@ class AdaptableServer extends AbstractServer
    */
   final protected void serverStopped()
   {
-    server.serverStopped();
+	  ObservableServer.serverStopped();
   }
 
   /**
@@ -103,7 +103,7 @@ class AdaptableServer extends AbstractServer
    */
   final protected void serverStarted()
   {
-    server.serverStarted();
+	  ObservableServer.serverStarted();
   }
 
   /**
@@ -111,7 +111,7 @@ class AdaptableServer extends AbstractServer
    */
   final protected void serverClosed()
   {
-    server.serverClosed();
+	  ObservableServer.serverClosed();
   }
 
   /**
@@ -124,6 +124,6 @@ class AdaptableServer extends AbstractServer
   final protected void handleMessageFromClient(Object msg,
                                          ConnectionToClient client)
   {
-    server.handleMessageFromClient(msg, client);
+	  ObservableServer.handleMessageFromClient(msg, client);
   }
 }
